@@ -2,6 +2,19 @@
 
 A Power BI dashboard analyzing sales performance across BlinkIT (India's last-minute grocery delivery app) outlets, covering 8,523 items and $1.20M in total sales.
 
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/Blinkit_Dashboard_pic.png)
+
+### Filtered Views
+
+| Filtered by Outlet Size: Medium | Filtered by Outlet Type: Supermarket Type1 |
+|---|---|
+| ![Medium Outlet Filter](screenshots/Blinkit_Dashboard_pic_2.png) | ![Supermarket Type1 Filter](screenshots/Blinkit_Dashboard_pic_3.png) |
+
+![Outlet Size Filter View](screenshots/Blinkit_Dashboard_pic_4.png)
+
+
 ## Overview
 
 This dashboard provides a complete view of sales performance across outlet types, locations, sizes, and product categories — helping identify top-performing outlets and key revenue drivers.
