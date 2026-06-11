@@ -8,9 +8,11 @@ A Power BI dashboard analyzing sales performance across BlinkIT (India's last-mi
 
 ### Filtered Views
 
-| Filtered by Outlet Size: Medium | Filtered by Outlet Type: Supermarket Type1 |
+| Highlighted by Outlet Size: Medium | Filtered by Outlet Size: Medium |
 |---|---|
 | ![Medium Outlet Filter](screenshots/Blinkit_Dashboard_pic_2.png) | ![Supermarket Type1 Filter](screenshots/Blinkit_Dashboard_pic_3.png) |
+
+**Highlighted by Outlet Type: Supermarket Type1**
 
 ![Outlet Size Filter View](screenshots/Blinkit_Dashboard_pic_4.png)
 
